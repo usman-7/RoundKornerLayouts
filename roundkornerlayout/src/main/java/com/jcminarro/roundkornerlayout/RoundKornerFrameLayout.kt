@@ -5,6 +5,7 @@ import android.graphics.Canvas
 import android.os.Build
 import android.util.AttributeSet
 import android.widget.FrameLayout
+import com.jcminarro.roundkornerlayouts.R
 
 class RoundKornerFrameLayout
 @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0) :
